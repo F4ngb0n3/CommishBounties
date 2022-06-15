@@ -1,4 +1,4 @@
-# Permissions:
+# Commish Bounties Permissions:
 
 | Permission | Description |
 | --- | --- |
