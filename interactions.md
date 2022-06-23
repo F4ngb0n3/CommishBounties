@@ -1,6 +1,6 @@
 # Interactive Features:
 
-**Commish** now has an interactive `Arrest / Cuff` function that allows you to capture your bounties alive and turn them in for a possibly bigger profit! You **MUST** be a Bounty Hunter to use this function, AND have a pair of **Zip Cuffs** in your hand!
+**Commish** now has an interactive `Arrest / Cuff` function that allows you to capture your bounties alive and turn them in for a possibly bigger profit! You **MUST** be a **Bounty Hunter** to use this function, _**AND**_ have a pair of **Zip Cuffs** in your hand!
 
 > NOTE:  
 > _Zip Cuffs are now default given to every player that is issued a **NEW** Bounty Hunter License from a Bondsman_
