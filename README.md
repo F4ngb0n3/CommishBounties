@@ -14,4 +14,4 @@ Just another note... be sure to get your **Bounty Hunter License** from a **B
 2. [Permissions](permissions.md)
 
 ### Support
-F4ngdev is always working tirelessly to ensure quality functional plugins, and should any questions or needs arise, we invite you to open a support ticket here on the CakeSMP Github where we can manage and get all things plugin related handled. If this forum isn't working for you, we always have the [F4ngdev Discord](https://discord.gg/k28sR69n5f) where everything plugin and development related is open-discussion.
+F4ngdev is always working tirelessly to ensure quality functional plugins, and should any questions or needs arise, we invite you to open a support ticket here on the **Commish Bounties Github** where we can manage and get all things plugin related handled. If this forum isn't working for you, we always have the [F4ngdev Discord](https://discord.gg/k28sR69n5f) where everything plugin and development related is open-discussion.
