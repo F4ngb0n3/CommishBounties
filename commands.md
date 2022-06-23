@@ -11,6 +11,16 @@
 | `/issuelicense` | [player] | N/A | Give a Player the Bounty Hunter license so they can legally collect on bounties |
 
 #
+#### Bounty Hunter Commands _(NEW)_
+> NOTE:  
+> _You MUST be a Bounty Hunter to use the commands below!_  
+
+| Command | Args | Alias | Description |
+| --- | --- | --- | --- |
+| `/cuff` | N/A | `/arrest` | Allows a Bounty Hunter to arrest / cuff a Player |
+| `/uncuff` | N/A | N/A | Allows a Bounty Hunter to un-cuff / release a Player |
+
+#  
 #### General Commands:
 *No permissions needed!*
 
