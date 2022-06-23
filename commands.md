@@ -9,6 +9,7 @@
 | `/setbounty` | [player] [amount] [reason] | N/A | Set a bounty for the given amount on the specified players head and the reason for the bounty |
 | `/removebounty` | [player] [amount] | N/A | Remove a specific amount from the given Players bounty. ***NOTE: Removing all money will clear the Player and remove their criminal status*** |
 | `/issuelicense` | [player] | N/A | Give a Player the Bounty Hunter license so they can legally collect on bounties |
+| `/issuecuffs` | N/A | N/A | Issue a new pair of Zip Cuffs to give to a Bounty Hunter |
 
 #
 #### Bounty Hunter Commands _(NEW)_
