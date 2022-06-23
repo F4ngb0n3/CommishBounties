@@ -9,6 +9,7 @@ Ready to start tagging people with offenses? Players getting a little too comfor
 Just another note... be sure to get your **Bounty Hunter License** from a **Bondsman** (*Someone who has the bondsman permissions*) before you go around, raising hell! Collecting a bounty, (killing a player with a bounty) and NOT having a license will result in some ***PRETTY negative*** outcomes...
 
 ### Sections:
+1. [Interactive Features **_NEW_**](interactions.md)
 1. [Commands](commands.md)
 2. [Permissions](permissions.md)
 
